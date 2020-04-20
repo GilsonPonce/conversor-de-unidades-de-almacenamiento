@@ -1,0 +1,10 @@
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Release\Conversor de unidades informáticas.exe
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Release\Conversor de unidades informáticas.pdb
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\ResolveAssemblyReference.cache
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor_de_unidades_informáticas.Form1.resources
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor_de_unidades_informáticas.Properties.Resources.resources
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor de unidades informáticas.csproj.GenerateResource.Cache
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor de unidades informáticas.exe
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor de unidades informáticas.pdb
+I:\Ficheros\Nueva carpeta\DFSI\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor de unidades informáticas.exe
+I:\Ficheros\Nueva carpeta\DFSI\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Release\Conversor de unidades informáticas.pdb

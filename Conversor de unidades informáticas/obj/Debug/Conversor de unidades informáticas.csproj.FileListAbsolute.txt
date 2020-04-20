@@ -1,0 +1,24 @@
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.exe
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.pdb
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Form1.resources
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Properties.Resources.resources
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.csproj.GenerateResource.Cache
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.exe
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.pdb
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.exe
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.pdb
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.exe
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.pdb
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\ResolveAssemblyReference.cache
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Form1.resources
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Properties.Resources.resources
+I:\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.csproj.GenerateResource.Cache
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.exe
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.pdb
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.exe
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\bin\Debug\Conversor de unidades informáticas.pdb
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\ResolveAssemblyReference.cache
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Form1.resources
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor_de_unidades_informáticas.Properties.Resources.resources
+I:\Ficheros\Nueva carpeta\Conversor de unidades informáticas\Conversor de unidades informáticas\obj\Debug\Conversor de unidades informáticas.csproj.GenerateResource.Cache
